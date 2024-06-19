@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Los-exf For Poco X5 Pro/RN 12 PROSE - Redwood Device"
+title: "Los-ext For Poco X5 Pro/RN 12 PROSE - Redwood Device"
 date: 2024-05-03 15:56:00 +0700
 categories: custom rom
 author: 'Thereache[RUSHI]'
@@ -55,11 +55,8 @@ author: 'Thereache[RUSHI]'
 **Download**
 
 [lineage-21.0-Ext-Community-redwood-Gapps-20240502-1519.zip][rom-links]
-
+[Fts.lineage-21.0-Ext-Community-redwood-Gapps-20240502-2131.zip][fts]
 
 [rom-links]: https://github.com/Thereache/releases/releases/download/lineage-21/lineage-21.0-Ext-Community-redwood-Gapps-20240502-1519.zip
-
-[For Fts][fts]
-
 
 [fts]: github.com/Thereache/releases/releases/download/lineage-21/Fts.lineage-21.0-Ext-Community-redwood-Gapps-20240502-2131.zip
