@@ -5,7 +5,7 @@ date: 2024-05-03 15:56:00 +0700
 categories: custom rom
 author: 'Thereache[RUSHI]'
 ---
-![LineageOS Banner](/assets/images/banner/)
+![LineageOS Banner](/assets/images/banner/los-ext.jpg)
 
 {% include disclaimer.md %}
 
@@ -24,7 +24,7 @@ author: 'Thereache[RUSHI]'
     <li>Added Partial Support for RMX1919 (5 Vietnam)</li>
     <li>Drop unused services and logging stuff</li>
     <li>Performance tuning</li>
-    <li>no support for fts And more</li>
+    <li> And more</li>
 </ol>
 
 **Known Issue**
@@ -48,7 +48,7 @@ author: 'Thereache[RUSHI]'
 
 **Screenshots**
 
-[Here][Click Me]
+[SS is Here][Click Me]
 
 [Click Me]: https://t.me/thereachebuildchat/2713
 
@@ -58,3 +58,7 @@ author: 'Thereache[RUSHI]'
 
 
 [rom-links]: https://github.com/Thereache/releases/releases/download/lineage-21/lineage-21.0-Ext-Community-redwood-Gapps-20240502-1519.zip
+
+[For Fts][fts]
+
+[fts]: github.com/Thereache/releases/releases/download/lineage-21/Fts.lineage-21.0-Ext-Community-redwood-Gapps-20240502-2131.zip
