@@ -55,8 +55,11 @@ author: 'Thereache[RUSHI]'
 **Download**
 
 [lineage-21.0-Ext-Community-redwood-Gapps-20240502-1519.zip][rom-links]
+
+
 [Fts.lineage-21.0-Ext-Community-redwood-Gapps-20240502-2131.zip][fts]
+
 
 [rom-links]: https://github.com/Thereache/releases/releases/download/lineage-21/lineage-21.0-Ext-Community-redwood-Gapps-20240502-1519.zip
 
-[fts]: github.com/Thereache/releases/releases/download/lineage-21/Fts.lineage-21.0-Ext-Community-redwood-Gapps-20240502-2131.zip
+[fts]: https://github.com/Thereache/releases/releases/download/lineage-21/Fts.lineage-21.0-Ext-Community-redwood-Gapps-20240502-2131.zip
