@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Los-exf For Poco/Redmi  Devices"
+title: "Los-exf For Poco X5 Pro/RN 12 PROSE - Redwood Device"
 date: 2024-05-03 15:56:00 +0700
 categories: custom rom
 author: 'Thereache[RUSHI]'
@@ -9,7 +9,7 @@ author: 'Thereache[RUSHI]'
 
 {% include disclaimer.md %}
 
-**DEVICES :** Poco X5 Pro/RN 12 PROSE<br>
+**DEVICE :** Poco X5 Pro/RN 12 PROSE<br>
 **BUILD DATE :** 03 May 2024<br>
 **FIRMWARE :** Hyperos<br>
 **TYPE :** Gapps
@@ -60,5 +60,6 @@ author: 'Thereache[RUSHI]'
 [rom-links]: https://github.com/Thereache/releases/releases/download/lineage-21/lineage-21.0-Ext-Community-redwood-Gapps-20240502-1519.zip
 
 [For Fts][fts]
+
 
 [fts]: github.com/Thereache/releases/releases/download/lineage-21/Fts.lineage-21.0-Ext-Community-redwood-Gapps-20240502-2131.zip
