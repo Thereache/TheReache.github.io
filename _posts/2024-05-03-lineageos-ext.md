@@ -20,8 +20,6 @@ author: 'Thereache[RUSHI]'
     <li>mi cam included</li>
     <li>the rom is very stable</li>
     <li>the night photo option does not have the purple tint in the photos - Fingerprint unlocking will now appear</li>
-    <li>The rest works well, the Dolby and the extra of the Rom</li>
-    <li>Added Partial Support for RMX1919 (5 Vietnam)</li>
     <li>Drop unused services and logging stuff</li>
     <li>Performance tuning</li>
     <li> And more</li>
