@@ -17,6 +17,11 @@ author: 'Thereache[RUSHI]'
 **Changelogs**
 <ol>
     <li>Update blobs to OS1.0.4.0.UMSMIXM</li>
+    <li>redwood: Import LHDC and LDAC blobs</li>
+    <li>Update IMS blobs to haydn V816.0.1.0.UKKCNXM</li>
+    <li>Update adreno blobs to v744</li>
+    <li>Import missing camera blobs</li>
+    <li>Import libxlog.so</li>
     <li>Miui Dolby included</li>
     <li>AtomxKernel With Ksu</li>
     <li>Mi Cam (Leica)included</li>
