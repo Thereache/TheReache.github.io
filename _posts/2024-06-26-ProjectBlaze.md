@@ -88,7 +88,7 @@ Download | FTS TURBO Kernel
 [FTS-USER Download vendor_boot.img,boot.img,dtbo.img][imagesForftsuser]
 
 
-[ftsdownload]: https://sourceforge.net/projects/redwoodroms/files/fts/FTS-ProjectBlaze-3.5-redwood-20240625-0808-GAPPS-UNOFFICIAL.zip/download
+[ftsdownload]: https://sourceforge.net/projects/redwoodroms/files/fts/FTS-ProjectBlaze-3.5-redwood-20240625-0808-GAPPS-OFFICIAL.zip/download
 
 [turbokernel]: https://telegram.me/garbageofreache/86
 
