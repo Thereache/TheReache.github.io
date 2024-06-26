@@ -10,8 +10,8 @@ author: 'Thereache[RUSHI]'
 {% include disclaimer.md %}
 
 **DEVICE :** Poco X5 Pro/RN 12 PROSE<br>
-**BUILD DATE :** 03 May 2024<br>
-**FIRMWARE :** Hyperos<br>
+**BUILD DATE :** 26 Jun 2024<br>
+**FIRMWARE :** Hyperos OS1.0.4.0.UMSMIXM<br>
 **TYPE :** Gapps
 
 **Changelogs**
