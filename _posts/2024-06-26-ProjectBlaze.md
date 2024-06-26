@@ -16,11 +16,10 @@ author: 'Thereache[RUSHI]'
 
 **Changelogs**
 <ol>
+    <li>Update blobs to OS1.0.4.0.UMSMIXM</li>
+    <li>Miui Dolby included</li>
     <li>AtomxKernel With Ksu</li>
     <li>Mi Cam (Leica)included</li>
-    <li>Xiaomi Dolby Included</li>
-    <li>the night photo option does not have the purple tint in the photos</li>
-    <li>Blobs Updated to leteast</li>
     <li>Firmware is included</li>
     <li>NFC works fine</li>
     <li>Seftynet passed by Default</li>
@@ -33,9 +32,9 @@ author: 'Thereache[RUSHI]'
 </ul>
 
 **Prerequisites**
-<ol>
+<ul>
     <li>Unlocked Bootloader</li>
-</ol>
+</ul>
 
 **Flashing Instruction**
 <ul>
@@ -55,9 +54,37 @@ author: 'Thereache[RUSHI]'
 ![ss](/assets/images/screenshots/jun26/IMG_20240626_091256_358.jpg){: width="768"}{: height="480"}
 
 
-**Download**
+Download | Goodix Atomx Kernel
 
 [Download ProjectBlaze-3.3-redwood-20240516-1802-GAPPS-OFFICIAL.zip (2.2 GB)][rom-links]
 
 
+[Download vendor_boot.img,boot.img,dtbo.img][images]
+
+
 [rom-links]: https://sourceforge.net/projects/projectblaze/files/redwood/V3.5/ProjectBlaze-3.5-redwood-20240625-1810-GAPPS-OFFICIAL.zip/download
+
+[images]: https://sourceforge.net/projects/projectblaze/files/redwood/Images/
+
+
+Download | FTS TURBO Kernel
+
+<ul>
+    <li>Flash Letest TURBO KERNEL is Mandatory,Becuse of SystumUi Crashing(will be fix in next update)</li>
+</ul>
+
+
+[FTS-ProjectBlaze-3.5-redwood-20240625-0808-GAPPS-OFFICIAL.zip(2.2 GB)][ftsdownload]
+
+
+[Letest TURBO Kernel][turbokernel]
+
+
+[FTS-USER Download vendor_boot.img,boot.img,dtbo.img][imagesForftsuser]
+
+
+[ftsdownload]: https://sourceforge.net/projects/redwoodroms/files/fts/FTS-ProjectBlaze-3.5-redwood-20240625-0808-GAPPS-UNOFFICIAL.zip/download
+
+[turbokernel]: https://telegram.me/garbageofreache/86
+
+[imagesForftsuser]: https://sourceforge.net/projects/redwoodroms/files/fts/flashfiles/
