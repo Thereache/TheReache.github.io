@@ -61,7 +61,7 @@ author: 'Thereache[RUSHI]'
 
 Download | Goodix Atomx Kernel
 
-[Download ProjectBlaze-3.3-redwood-20240516-1802-GAPPS-OFFICIAL.zip (2.2 GB)][rom-links]
+[Download ProjectBlaze-3.5-redwood-20240625-1810-GAPPS-OFFICIAL.zip (2.2 GB)][rom-links]
 
 
 [Download vendor_boot.img,boot.img,dtbo.img][images]
