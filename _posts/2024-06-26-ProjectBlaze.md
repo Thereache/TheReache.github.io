@@ -52,11 +52,11 @@ author: 'Thereache[RUSHI]'
 
 **Screenshots**
 
-![ss](/assets/images/screenshots/jun26/IMG_20240626_091255_413.jpg){: width="576"}{: height="1280"}
-![ss](/assets/images/screenshots/jun26/IMG_20240626_091256_010.jpg){: width="576"}{: height="1280"}
-![ss](/assets/images/screenshots/jun26/IMG_20240626_091256_107.jpg){: width="576"}{: height="1280"}
-![ss](/assets/images/screenshots/jun26/IMG_20240626_091256_171.jpg){: width="576"}{: height="1280"}
-![ss](/assets/images/screenshots/jun26/IMG_20240626_091256_358.jpg){: width="576"}{: height="1280"}
+![ss](/assets/images/screenshots/jun26/IMG_20240626_091255_413.jpg){: width="240"}{: height="540"}
+![ss](/assets/images/screenshots/jun26/IMG_20240626_091256_010.jpg){: width="240"}{: height="540"}
+![ss](/assets/images/screenshots/jun26/IMG_20240626_091256_107.jpg){: width="240"}{: height="540"}
+![ss](/assets/images/screenshots/jun26/IMG_20240626_091256_171.jpg){: width="240"}{: height="540"}
+![ss](/assets/images/screenshots/jun26/IMG_20240626_091256_358.jpg){: width="240"}{: height="540"}
 
 
 Download | Goodix Atomx Kernel
